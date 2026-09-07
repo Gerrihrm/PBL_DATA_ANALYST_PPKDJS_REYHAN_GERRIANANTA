@@ -48,7 +48,7 @@ def load_ml_assets():
 # Memuat semua aset ML
 try:
     scaler, thresholds, models, selectors, rumpun_list = load_ml_assets()
-    st.success("✅ Semua sub-model spesialis dan scaler berhasil dimuat!")
+    st.success("✅ Model Prediksi siap digunakan")
 except Exception as e:
     st.error(f"⚠️ Gagal memuat aset model (.pkl). Pastikan semua file model, selector, dan scaler diletakkan di folder yang sama. Error: {e}")
 
@@ -107,7 +107,7 @@ age = st.sidebar.number_input("Usia (Age)", 18, 30, 21)
 
 
 # 3. TOMBOL PROSES & PREPROCESSING DATA INPUT
-if st.button("🚀 Uji Kelayakan Kerja & Berikan Rekomendasi"):
+if st.button("Jalankan Prediksi"):
     
     # Menyusun data dari form input UI
     input_data = {
