@@ -69,6 +69,5 @@ Berikut adalah performa model final spesialis kami setelah proses tuning:
     python -m streamlit run app.py
 ```
 ---
-##💻 Fitur Antarmuka Pengguna (UI/UX)
 Dibuat untuk memenuhi tugas Proyek Pembelajaran Berbasis Masalah (PBL) - Program Data Analyst PPKDJS.
 ---
