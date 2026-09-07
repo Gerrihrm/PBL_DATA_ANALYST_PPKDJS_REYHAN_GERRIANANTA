@@ -57,6 +57,7 @@ Berikut adalah performa model final spesialis kami setelah proses tuning:
 │   └── dataset_career.csv         # Raw dataset 50.000 records
 └── notebooks/
     └── PBL_Career_Prediction.ipynb # Jupyter Notebook dokumentasi eksperimen Colab
+```
 ⚙️ Cara Menjalankan Aplikasi Secara Lokal
 Clone Repositori ini:
 git clone https://github.com/Gerrihrm/PBL_DATA_ANALYST_PPKDJS_REYHAN_GERRIANANTA.git
@@ -70,3 +71,4 @@ Input Ringkas (11 Fitur Utama): Form input dirancang efisien dengan menyaring fi
 Taktik Invisible Constants: Menyisipkan 6 fitur sekunder secara konstan di balik layar guna mempertahankan bentuk dimensi data input tanpa membebani antarmuka pengguna.
 Analisis & Tindak Lanjut Karir: Sistem memberikan saran rekomendasi peningkatan kompetensi (skill gap intervention) jika nilai kelayakan kerja pengguna di bawah standar minimum industri.
 Dibuat untuk memenuhi tugas Proyek Pembelajaran Berbasis Masalah (PBL) - Program Data Analyst PPKDJS.
+---
