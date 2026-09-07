@@ -1,4 +1,4 @@
-# 🎓 Rancang Bangun Sistem Rekomendasi Karir Berbasis *Employability* Menggunakan Pendekatan Multi-Model Random Forest dan *Local Feature Selection*
+# 🎓 Sistem Rekomendasi Karir Berbasis *Employability* Menggunakan Pendekatan Multi-Model Random Forest dan *Local Feature Selection*
 
 Sistem rekomendasi interaktif berbasis kecerdasan buatan (*AI*) untuk mengukur tingkat **kelayakan kerja (*Employability*)** mahasiswa di bidang teknologi informasi (IT). Menggunakan pendekatan arsitektur **Local Classifier per Parent (LCP)**, sistem ini tidak sekadar memberikan rekomendasi berdasarkan minat, melainkan melakukan uji kualifikasi kelayakan riil secara paralel di 5 rumpun karir industri utama.
 
