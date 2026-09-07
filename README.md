@@ -2,7 +2,7 @@
 
 Sistem rekomendasi interaktif berbasis kecerdasan buatan (*AI*) untuk mengukur tingkat **kelayakan kerja (*Employability*)** mahasiswa di bidang teknologi informasi (IT). Menggunakan pendekatan arsitektur **Local Classifier per Parent (LCP)**, sistem ini tidak sekadar memberikan rekomendasi berdasarkan minat, melainkan melakukan uji kualifikasi kelayakan riil secara paralel di 5 rumpun karir industri utama.
 
-🔗 **Link Web App (Streamlit Cloud):** *[Tempel link Streamlit Anda di sini, misal: https://career-recommender.streamlit.app/]*
+🔗 **Link Web App (Streamlit Cloud):** *https://pbldataanalystppkdjsreyhangerriananta-u2iu6i4rxt7gydztodyajy.streamlit.app/*
 
 ---
 
