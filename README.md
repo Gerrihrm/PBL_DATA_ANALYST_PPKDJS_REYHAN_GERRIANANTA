@@ -60,14 +60,15 @@ Berikut adalah performa model final spesialis kami setelah proses tuning:
 ```
 ⚙️ Cara Menjalankan Aplikasi Secara Lokal
 ``` text
-1. Clone Repositori ini:
+#Clone Repositori ini:
     git clone https://github.com/Gerrihrm/PBL_DATA_ANALYST_PPKDJS_REYHAN_GERRIANANTA.git
     cd PBL_DATA_ANALYST_PPKDJS_REYHAN_GERRIANANTA
-2. Instal Library yang Dibutuhkan:
+#Instal Library yang Dibutuhkan:
     pip install -r requirements.txt
-3. Jalankan Aplikasi Streamlit:
+#Jalankan Aplikasi Streamlit:
     python -m streamlit run app.py
 ```
+---
 💻 Fitur Antarmuka Pengguna (UI/UX)
 **Input Ringkas (11 Fitur Utama): Form input dirancang efisien dengan menyaring fitur yang tidak berkontribusi signifikan pada model, mengoptimalkan waktu pengisian formulir.
 **Taktik Invisible Constants: Menyisipkan 6 fitur sekunder secara konstan di balik layar guna mempertahankan bentuk dimensi data input tanpa membebani antarmuka pengguna.
