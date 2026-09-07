@@ -40,8 +40,8 @@ def load_ml_assets():
     selectors = {}
     for group in rumpun_list:
         slug = group.lower().replace(' & ', '_').replace(' ', '_')
-        models[group] = joblib.load(f"model_rf_f1_{slug}.pkl")
-        selectors[group] = joblib.load(f"selector_f1_{slug}.pkl")
+        models[group] = joblib.load(f"model_rf_final_{slug}.pkl")
+        selectors[group] = joblib.load(f"selector_final_{slug}.pkl")
         
     return scaler, thresholds, models, selectors, rumpun_list
 
