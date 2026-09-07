@@ -58,7 +58,7 @@ Berikut adalah performa model final spesialis kami setelah proses tuning:
 └── notebooks/
     └── PBL_Career_Prediction.ipynb # Jupyter Notebook dokumentasi eksperimen Colab
 ```
-⚙️ Cara Menjalankan Aplikasi Secara Lokal
+##⚙️ Cara Menjalankan Aplikasi Secara Lokal
 ``` text
 #Clone Repositori ini:
     git clone https://github.com/Gerrihrm/PBL_DATA_ANALYST_PPKDJS_REYHAN_GERRIANANTA.git
@@ -69,9 +69,6 @@ Berikut adalah performa model final spesialis kami setelah proses tuning:
     python -m streamlit run app.py
 ```
 ---
-💻 Fitur Antarmuka Pengguna (UI/UX)
-**Input Ringkas (11 Fitur Utama): Form input dirancang efisien dengan menyaring fitur yang tidak berkontribusi signifikan pada model, mengoptimalkan waktu pengisian formulir.
-**Taktik Invisible Constants: Menyisipkan 6 fitur sekunder secara konstan di balik layar guna mempertahankan bentuk dimensi data input tanpa membebani antarmuka pengguna.
-**Analisis & Tindak Lanjut Karir: Sistem memberikan saran rekomendasi peningkatan kompetensi (skill gap intervention) jika nilai kelayakan kerja pengguna di bawah standar minimum industri.
-**Dibuat untuk memenuhi tugas Proyek Pembelajaran Berbasis Masalah (PBL) - Program Data Analyst PPKDJS.
+##💻 Fitur Antarmuka Pengguna (UI/UX)
+Dibuat untuk memenuhi tugas Proyek Pembelajaran Berbasis Masalah (PBL) - Program Data Analyst PPKDJS.
 ---
